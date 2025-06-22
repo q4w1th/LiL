@@ -1,39 +1,39 @@
-2025-05-05 20:30:43 UTC
+2025-06-22 17:40:20 UTC
 Windows-10-10.0.26100
 Ren'Py 8.3.7.25031702
 
-Early init took 0.06s
-Loading error handling took 0.06s
-Loading script took 0.87s
-Loading save slot metadata took 0.02s
+Early init took 0.14s
+Loading error handling took 0.04s
+Loading script took 0.48s
+Loading save slot metadata took 0.10s
 Loading persistent took 0.00s
 Set script version to: (8, 1, 3)
 Warn: You have set weekday_weekend_begins > len(weekday_names), so I ignore it.
 filename_line: nqtr.time.TimeHandler.weekday_weekend_begins
-Running init code took 0.07s
+Running init code took 0.09s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
+Reloading save slot metadata took 0.03s
 Index archives took 0.00s
-Dump and make backups took 0.05s
+Dump and make backups took 0.07s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.03s
+Initial gc took 0.04s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.23s
+Creating interface object took 0.40s
 Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
 Save bytecode. took 0.04s
 Running _start took 0.00s
-Interface start took 0.34s
+Interface start took 0.37s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 3440, 1440)
@@ -41,7 +41,7 @@ swap interval: 1 frames
 Windowed mode.
 Vendor: "b'NVIDIA Corporation'"
 Renderer: b'NVIDIA GeForce RTX 3070/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 576.28'
+Version: b'4.6.0 NVIDIA 576.52'
 Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1920, 1080) drawable=(1920, 1080)
 Maximum texture size: 4096x4096
@@ -129,4 +129,57 @@ I think Ishito doesn't seem very happy about our meeting..
 Ayumi
 Don't mind her; she always acts like that. I also don't get along with her
 very well.
+
+Ayumi
+Oh~ Look, here comes another classmate!
+
+Ayumi
+Yuno-chan!!
+
+Choice: Hello, Yuno!
+Choice: Hello, how should I call you?
+
+Player chose: Hello, Yuno!
+
+Yuno
+For you - Fujivara-san!
+
+Ayumi
+Oh, stop it! Better tell me, where have you been?
+
+Yuno
+I was summoned to the director's office, so I was late.
+
+Ayumi
+To the director? What happened again?
+
+Yuno
+I was coming here, and on the stairs, some fool decided to show off. Am I to
+blame that he couldn't stand on his feet?
+
+Ayumi
+Did you push him down the stairs?!
+
+Yuno
+You could call it that, but it doesn't matter. Is this why you called me here,
+for an introduction?
+
+Ayumi
+Well, is there anything else needed?
+
+Ayumi
+This is my old friend, asd, I'm sure you two will get along!
+
+asd
+I also hope for that!
+
+Yuno
+Enough talking.. And as for you, Ayumi-chan, it's time you remembered my
+attitude toward this!
+
+Ayumi
+~Yuno-chan! Don't be so mean all the time!
+
+Ayumi
+Alright, time to run to class!
 
